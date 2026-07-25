@@ -63,7 +63,7 @@ to build scalable, industry-ready solutions.
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/aman0117-crypto/aman0117-crypto/output/dist/github-contribution-grid-snake.svg" 
+    src="https://raw.githubusercontent.com/aman0117-crypto/aman0117-crypto/output/github-contribution-grid-snake.svg" 
     alt="GitHub contribution snake"
   />
 </p>
