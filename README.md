@@ -37,8 +37,8 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,js,html,css,python&theme=dark" />
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,flask&theme=dark" />
 <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </div>
