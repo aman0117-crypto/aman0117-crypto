@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%26+DSA+Enthusiast;Building+Web+Applications;Solving+LeetCode+Problems+Daily;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%26+DSA+Enthusiast;Building+Web+Applications;Solving+LeetCode+Problems+Daily;Always+Learning+Something+New" />
 
 </div>
 
@@ -130,19 +130,7 @@ I regularly practice **Data Structures & Algorithms** to strengthen my problem-s
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aman0117-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aman0117-crypto&theme=tokyonight&hide_border=true&mode=daily" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman0117-crypto&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aman0117-crypto&theme=tokyo-night&hide_border=true" />
 
 </div>
 
