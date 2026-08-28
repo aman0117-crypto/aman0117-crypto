@@ -123,7 +123,6 @@ I regularly practice **Data Structures & Algorithms** to strengthen my problem-s
 
 <br/>
 
-
 ---
 
 ## 📊 GitHub Analytics
@@ -133,8 +132,6 @@ I regularly practice **Data Structures & Algorithms** to strengthen my problem-s
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aman0117-crypto&theme=tokyonight&hide_border=true&mode=daily" />
 
 </div>
-
-<br/>
 
 ---
 
