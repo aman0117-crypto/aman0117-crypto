@@ -142,11 +142,24 @@ I regularly practice **Data Structures & Algorithms** to strengthen my problem-s
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aman0117-crypto/aman0117-crypto/main/dist/github-contribution-grid-snake.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aman0117-crypto/aman0117-crypto/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aman0117-crypto/aman0117-crypto/output/github-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/aman0117-crypto/aman0117-crypto/output/github-snake.svg"
+  />
+</picture>
 
 </div>
-
-<br/>
 
 ---
 
