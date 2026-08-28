@@ -80,7 +80,7 @@ VoiceSQL AI converts the natural-language request into a PostgreSQL query and ex
 
 ### 🧰 Technologies
 
-`React` `JavaScript` `Flask` `Python` `PostgreSQL` `Gemini API` `Web Speech API` `JWT` `Google OAuth`
+`React` `JavaScript` `Flask` `Python` `PostgreSQL` `Groq API` `Web Speech API` `JWT` `Google OAuth`
 
 </td>
 </tr>
