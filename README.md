@@ -21,11 +21,11 @@
 ## 🚀 About Me
 <img align="right" width="230" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- Name: Aman Gupta
+- Name: **Aman Gupta**
 - Role: Aspiring Software Developer
 - Master's of Computer Application (Currently pursuing)
 - BCA Graduate
-- Currently Building: VoiceSQL AI: 'Voice-to-SQL Query Generator'
+- Currently Building: **VoiceSQL AI - 'Voice-to-SQL Query Generator'**
 - Coding: Daily LeetCode practice | Problem Solving
 - Goal: Grow as a Software Developer by building real-world applications and strengthening problem-solving skills.
 
@@ -36,11 +36,21 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,python&theme=dark" />
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
-<img src="https://skillicons.dev/icons?i=nodejs,flask&theme=dark" />
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongoDB&theme=dark" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+  
+### Languages
+<img src="https://skillicons.dev/icons?i=c,java,python,js" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=flask,nodejs,spring" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </div>
 
 <br/>
@@ -80,7 +90,7 @@ VoiceSQL AI converts the natural-language request into a PostgreSQL query and ex
 
 ### 🧰 Technologies
 
-`React` `JavaScript` `Flask` `Python` `PostgreSQL` `Groq API` `Web Speech API` `JWT` `Google OAuth`
+`React` `JavaScript` `Flask` `Python` `PostgreSQL` `NLP/AI` `Web Speech API` `JWT` `Google OAuth` `API Integration`
 
 </td>
 </tr>
