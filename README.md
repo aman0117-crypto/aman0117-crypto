@@ -21,13 +21,13 @@
 ## 🚀 About Me
 <img align="right" width="230" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- Name: *Aman Gupta*
-- Role: *Aspiring Software Developer*
-- *Master's of Computer Application* (Currently pursuing)
-- *BCA Graduate*
-- Currently Building: *VoiceSQL AI*: Voice-to-SQL Query Generator
-- Coding: *Daily LeetCode practice | Problem Solving*
-- Goal: *High-Impact Software Engineer*
+- Name: Aman Gupta
+- Role: Aspiring Software Developer
+- Master's of Computer Application (Currently pursuing)
+- BCA Graduate
+- Currently Building: VoiceSQL AI: 'Voice-to-SQL Query Generator'
+- Coding: Daily LeetCode practice | Problem Solving
+- Goal: Grow as a Software Developer by building real-world applications and strengthening problem-solving skills.
 
 <br clear="right"/>
 
@@ -39,8 +39,8 @@
 <img src="https://skillicons.dev/icons?i=java,js,html,css,python&theme=dark" />
 <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
 <img src="https://skillicons.dev/icons?i=nodejs,flask&theme=dark" />
-<img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongoDB&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
 </div>
 
 <br/>
