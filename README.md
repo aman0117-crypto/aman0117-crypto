@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Aman%20Gupta&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%7C%20DSA%20%7C%20Full%20Stack&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12&text=Aman%20Gupta&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%7C%20DSA%20%7C%20Full%20Stack&descAlignY=55&descSize=17" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=aman0117-crypto&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 
